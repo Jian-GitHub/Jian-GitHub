@@ -2,6 +2,7 @@
 - 👀 I’m interested in brain science, cognitive science, neuroscience, and how to use computers to simulate humans.
 - 🌱 I’m currently Software Engineering.
 - 📫 Email:  E.JianQi@Gmail.com .
+- [Contact Jian](contact.jian.nz)
 
 <!---
 Jian-GitHub/Jian-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
