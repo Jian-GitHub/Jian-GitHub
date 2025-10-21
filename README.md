@@ -3,7 +3,7 @@
 - 🌱 I’m currently Software Engineering.
 - 📫 Email:  E.JianQi@Gmail.com .
 - [Contact Jian](https://contact.jian.nz)
-- More details in my [CV]([https://github.com/Jian-GitHub/CV/blob/main/Jian%20Qi%20CV(en).pdf](https://github.com/Jian-GitHub/CV/blob/main/Jian%20Qi%20CV(en).pdf)) (中文: [简历]([https://github.com/Jian-GitHub/CV/blob/main/Jian%20Qi%20CV(zh).pdf](https://github.com/Jian-GitHub/CV/blob/main/Jian%20Qi%20CV(zh).pdf)))
+- More details in my [CV](https://github.com/Jian-GitHub/CV/blob/main/Jian%20Qi%20CV(en).pdf) (中文: [简历](https://github.com/Jian-GitHub/CV/blob/main/Jian%20Qi%20CV(zh).pdf))
 
 <!---
 Jian-GitHub/Jian-GitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
